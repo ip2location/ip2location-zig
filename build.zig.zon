@@ -1,0 +1,16 @@
+.{
+    .name = .ip2location,
+    .version = "1.0.0",
+    .fingerprint = 0x8d2c223f9cd45f9f,
+    .minimum_zig_version = "0.16.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "example",
+        "test",
+        "test/testdata",
+        "README.md",
+        "LICENSE",
+    },
+}
